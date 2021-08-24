@@ -6,7 +6,7 @@ In this repository I have demonstrated how Feature Extraction is performed for r
 
 2. In the second notebook - "Feature Extraction from Text - Scikit-learn" I have demonstarted how using Scikit-learn we can perform Count Vectorization and also the TF-IDF Term Frequency - Inverse Document Frequency to get the term frequency values for each of the words in the documents.
 
-The Scikit-learn API's I have used are 
+The Scikit-learn API's that I have used are:-
 1. CountVectorizer
 2. TfidfTransformer
 3. TfidfVectorizer
